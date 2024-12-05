@@ -8,7 +8,8 @@ h3{ text-align: center;}
 .game {width: 1000px; 
        height: 600px; 
        margin: 0 auto; 
-       background: linear-gradient(to bottom, #04cfff, #4199c7); 
+       background: #04cfff; 
+       background: linear-gradient(to bottom, #04cfff, #4199c7)  !important; 
        background-repeat: no-repeat; 
        background-size: 100% 100%; 
        padding:10px; 
